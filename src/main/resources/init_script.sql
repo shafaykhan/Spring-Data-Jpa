@@ -1,0 +1,3 @@
+drop database if exists spring_data_jpa_example_db;
+create database spring_data_jpa_example_db
+use spring_data_jpa_example_db;
